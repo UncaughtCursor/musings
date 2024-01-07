@@ -8,7 +8,7 @@ TODO:
 - [[Facing Unspeakable Horrors]].
 - [[TotK's Sky Islands - A Peaceful Heaven]].
 
-- The meaning of life.
+- The meaning of life
 - Talk about how life feels like a fun rollercoaster to me, full of wonder and beauty, and with a beautiful sky filled with stars
 - How lucky I was to experience 21 years of life when I would have died in a few days without modern medicine
 - Any wishes after death, like people reading the notes
