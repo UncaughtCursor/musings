@@ -1,0 +1,3 @@
+Image sequences are sets of images on [[Elements|elements]] to be played in sequence, used to add non-parameterized manual animation. Multiple image sequences may be present on a single element.
+
+Image sequences are played by animating the `imageIndex` parameter. The integer portion of the parameter determines which image in the sequence is shown. Out-of-bounds indices wrap back around to the beginning.

@@ -1,0 +1,1 @@
+Despite my [[Facing Unspeakable Horrors|relative stoicism]] in the face of my own death, I still feel a bit anxious. I fidget nervously when thinking about running out of time for the last things I want to do. I cry a little when thinking about how I have been sealed into this fate and how sad people will probably be. I'm still human.

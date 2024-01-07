@@ -1,0 +1,5 @@
+Whether the full extent of Project Pulsar is required is debatable.
+
+- Full deafblindedness is very unlikely in multiple sclerosis. In all likelihood, we would use a screen reader and rely on the audio. This does not require learning the underlying language; normal spoken English would be used. Pulsar would still be justified if we had a faster transmission rate than spoken language (e.g. 64 sounds in very short pulses), but this is be unlikely to be faster than sped-up text. It may instead be used for more privacy or to keep the language fresh in our minds.
+- For inputs, the language is much more justified. Weakness and paralysis are common in MS, as well as speech problems. It could foreseeably be used for input.
+- While not directly related to the project, we should consider preserving our voice so it can still be simulated when we no longer have it.

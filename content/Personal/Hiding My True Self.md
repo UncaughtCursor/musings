@@ -1,0 +1,1 @@
+TODO: Document how aloof I am in front of family and sometimes friends because of [[Gender Stereotypes]]. Also touch on religion and politics.

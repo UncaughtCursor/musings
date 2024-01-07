@@ -1,0 +1,3 @@
+Project Maple is a web-based procedurally-generated RPG adventure game that uses a combination of large language models, traditional programming methods, and human-created content to produce a cutscene-focused experience.
+
+An initial reveal and demo was planned to be released in December 2023, but due to delays from a sudden flare-up of [[The Disease|the disease]], it is currently in a state of limbo.

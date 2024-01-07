@@ -1,0 +1,66 @@
+
+TODO:
+
+- [[Hiding My True Self]].
+- [[Gender Stereotypes]].
+
+- [[Hedonic Adaptation]].
+- [[Facing Unspeakable Horrors]].
+- [[TotK's Sky Islands - A Peaceful Heaven]].
+
+- The meaning of life
+- Talk about how life feels like a fun rollercoaster to me, full of wonder and beauty, and with a beautiful sky filled with stars
+- How lucky I was to experience 21 years of life when I would have died in a few days without modern medicine
+- Any wishes after death, like people reading the notes
+- Programming and MakerCentral
+- All of the programming projects I've done
+- Favorite video games, food, movies, TV shows, music, YouTube videos, items (like the yellow blanket, the aquarium light thing)
+- Forgiving people for doubting my terminal status (Perhaps continued from or linked to [[I Am the Only One Who Knows]])
+- Being the odd one out in my family, or at least feeling like it, but being okay with that; maybe reference Frank Sinatra's My Way
+- How I won life anyway, how I accomplished so much
+- Being grateful for experiencing anything, given that I wouldn't last more than a week without modern medicine
+- A letter to my parents (or just mom)
+- Politics, religion, controversial stuff like the past, because we might as well go there
+- Despite my differences, God isn't punishing me, because if he was, why is my death humane and not constant suffering, giving me a philosophers death - an incredible experience, even though people might claim otherwise
+- For people who worry that I went to Hell
+- Foreshadowing of this fate
+  - A slide in biology class describing multiple sclerosis, and thinking about how interesting it was
+  - When I was younger, thinking that neurodegeneration of the brain would be the worst way to die
+  - One of my favorite YouTube videos of all time (the Sonic 06 real time fandub) featuring an instrumental version Ke$ha's "Die Young" in the opening scene, which I really enjoyed
+  - My school username using the year 2021 the whole time, with me not knowing it would be the most consequential year of my lifetime
+- Ragdoll cats
+- On pessimism and finding joy in the things and outcomes that cannot be taken away
+- The possibility of losing my personality and behavior to brain damage, disavowing antisocial, inappropriate, or abusive states due to damage
+- Preserving my face and voice (Also how my favorite feature was my eyes)
+- How the majority of my pain and suffering is probably over
+- General intelligence, that one time I got perfect grades in school
+- Saving money
+- 2021, why I had anxiety
+- Doing everything right, but still failing from a societal perspective
+- The analogy of my brain being a big office building where different modules in my brain work, the idea that they have their own newspaper, and the one day when two men in black suits and sunglasses walked in to deliver news of the terminal diagnosis to the CEO in an urgent private meeting
+- How I never expected to be the unlucky one, looking at unlucky people and expecting to never end up that way
+- How incredible it is to be able to write about death and have profound philosophical experiences in reaction to it
+- Why I succeeded and redefining success
+- Being so grateful for life, how beautiful it is
+- My identity as a guy and a person in general
+- Accepting the fact that dying without some unfinished business is almost impossible
+- First memories (church playground, first day of preschool, 2000s pop songs, possible blood transfusion, the silo on the way to preschool that I couldn't even read at first, "goodnight and bye")
+- Favorite games, music, food, etc
+- How amazing technology is and the fact that we live incredibly rich, vibrant lives
+- The future, AI
+- Whether or not I worked myself to death
+- The inability to capture everything, accepting incompleteness
+- How strange it is that I feel like I just became conscious one day
+- The outward appearance of dying young
+- How things could only have happened in the exact way they did
+- Being glad that I messed around outside of school, as this formed some of my happiest memories
+- Discovering my passion for programming in 4th grade
+- The possibly high rarity of my condition
+- The impossibly complex nature of life and the human brain
+- How my mind loves me and is my own life partner
+- Time speeding up faster and faster
+- The Beauty of Zora's Domain in Breath of the Wild and ToTK, both the visuals and music, also Vaporeon, who is basically a cute Zora dog/fox Pokemon
+- The Beauty of Rainbow Road in Mario Kart Wii and Mario Kart 8 Deluxe, the music, and probably MKWii nostalgia in general
+- The failure of the medical system to diagnose me in time, being dismissed by doctors
+- Hamtaro
+- Puss in Boots: The Last Wish

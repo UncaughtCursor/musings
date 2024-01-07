@@ -1,0 +1,1 @@
+TODO: Talk about our stable attitude while others react with horror upon hearing our circumstances, reference the [[Hedonic Adaptation]] and [[Playing a Video Game That's Falling Apart]].
