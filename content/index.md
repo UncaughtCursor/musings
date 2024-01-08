@@ -3,7 +3,7 @@ title: Home
 ---
 Welcome! This is a place for [[Publishing Life After Death|documenting my thoughts]] to give everyone a picture of what my life was like and who I truly was. It's basically a blog, but more dramatic.
 
-Historically, I've [[Hiding My True Self|kept things close to my chest]], but recently I realized that if [[The Disease|my disease]] takes my life soon, then everyone, including my family, would only really know the boring outer shell I presented instead of the rich inner world that I inhabit. Much of my emotional depth would be lost to time, so I intend to rectify that here.
+Historically, I've [[Hiding My True Self|kept things close to my chest]]. But recently, I realized that if [[The Disease|my disease]] took my life soon, then everyone, including my family, would only really know the boring outer shell I presented, instead of the rich inner world that I inhabit. So much of my emotional depth would be lost to time, so I intend to rectify that here.
 
 Consider this page to be your guide for all of these thoughts that I've written down.
 
