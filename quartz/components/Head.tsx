@@ -17,10 +17,10 @@ export default (() => {
 
     return (
       <head>
-        <title>{title}</title>
+        <title>{`${title} - ${cfg.pageTitle ?? 'Untitled Quartz'}`}</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta property="og:title" content={title} />
+        <meta property="og:title" content={`${title} - ${cfg.pageTitle ?? 'Untitled Quartz'}`} />
         <meta property="og:description" content={description} />
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
         <meta property="og:width" content="1200" />

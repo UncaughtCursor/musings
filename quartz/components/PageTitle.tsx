@@ -19,9 +19,10 @@ PageTitle.css = `
   margin: 0;
 }
 .page-title > a > img {
-  height: 1.75rem;
+  height: 2rem;
   margin: 0;
   margin-right: 0.5rem;
+  transform: translateY(12.5%);
 }
 `
 
