@@ -7,7 +7,7 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   return (
     <h1 class={`page-title ${displayClass ?? ""}`}>
       <a href={baseDir}>
-		<img src="/static/icon.png" />
+		<img src={`${baseDir}/static/icon.png`} />
 		{title}
 	  </a>
     </h1>
