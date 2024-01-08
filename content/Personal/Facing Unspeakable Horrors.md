@@ -1,1 +1,7 @@
-TODO: Talk about our stable attitude while others react with horror upon hearing our circumstances, reference the [[Hedonic Adaptation]] and [[Playing a Video Game That's Falling Apart]].
+Many people I've talked to expressed awe at just how calm I've been in the face of [[The Disease|my disease]]. Now, [[I'm Still a Little Scared|I'm by no means perfect]], but there are a few factors at play:
+
+- **Mental Health Crisis of 2021:** In the last few months of 2021 and the first couple of 2022, I had constant severe anxiety, processing the possibility of disability and death as I watched my disease rapidly progress. It was the most extreme and prolonged period of mental and emotional suffering of my entire lifetime. I don't believe anything will ever match it. Throughout this process and afterwards, I had been coming to terms with the possibility of permanent disability and an early death.
+- **The [[Hedonic Adaptation]]:** This is the tendency for people to return to a relatively stable state of happiness after extremely good or bad events. This tends to prevents people from feeling too much joy, but also prevents them from suffering too much. The latter component is helpful to me.
+- **[[Optimistic Pessimism]]:** Preparing for the worst and thoroughly appreciating things that don't depend on life outcomes.
+
+I intend to [[Playing a Video Game That's Falling Apart|ride this out until the end]], even if I become significantly disabled. There is still so much to live for, especially in modern times.

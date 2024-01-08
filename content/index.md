@@ -37,6 +37,7 @@ Here are other notes that you might be interested in starting out with:
 - [[The Disease]]
 - [[Some Thoughts on Life]]
 - [[Some Thoughts on Death]]
+- [[Facing Unspeakable Horrors]]
 
 ### Portals
 
