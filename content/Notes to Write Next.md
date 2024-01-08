@@ -6,6 +6,7 @@ TODO:
 
 - [[Hedonic Adaptation]].
 - [[Facing Unspeakable Horrors]].
+- Optimistic Pessimism - Finding happiness in the worst situations.
 - [[TotK's Sky Islands - A Peaceful Heaven]].
 
 - The meaning of life.
