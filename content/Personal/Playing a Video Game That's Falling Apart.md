@@ -4,4 +4,6 @@ Perhaps, then, the brainstem is the controller, a universal port that conveys ou
 
 My game is falling apart. More and more functions are glitching out, and it's clear that there's a hardware defect that is spreading and corrupting more of the code and frying more of the hardware. But there is no replacement or repair method, and you can't just reset the game. This brain is the mediator of my one and only subjective experience of reality. I must pick the controller back up and keep playing, even if my experience of reality itself shifts and distorts in indescribable ways.
 
-And so, that's exactly what I will do.
+That's exactly what I will do.
+
+And then, one day, once the game is so far broken beyond repair, [[What I Think Comes Next|it will all reset]]. The hardware and software are replaced, and the whole thing wraps around back to Level 1.
