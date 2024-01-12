@@ -63,3 +63,4 @@ TODO:
 - The failure of the medical system to diagnose me in time, being dismissed by doctors
 - Hamtaro
 - Puss in Boots: The Last Wish
+- Gloom's Approach music and the buildup towards death

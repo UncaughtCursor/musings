@@ -39,9 +39,10 @@ These flare-ups were **not likely to be caused** by any physical event:
 
 These events were expected to possibly cause a flare-up, but **did not**:
 
-| Date     | Event                                                              |
-| -------- | ------------------------------------------------------------------ |
-| 12/25/23 | Hugged by mom, arm wrapped around neck with force right above disc, foo bar baz |
-| 12/5/23  | Was sat up for several hours being out and about, shoulders hurt   |
+| Date | Event |
+| ---- | ---- |
+| 12/5/23 | Was sat up for several hours being out and about, shoulders hurt |
+| 12/25/23 | Hugged by mom, arm wrapped around neck with force right above disc |
+| 1/9/24 | Was sat up for a few hours being out and about, twice in one day, shoulders and neck hurt, mostly shoulders |
 
 TODO: Add more of these
