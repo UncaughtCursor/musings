@@ -3,14 +3,13 @@ TODO:
 
 - [[Hiding My True Self]].
 - [[Gender Stereotypes]].
-
 - [[Hedonic Adaptation]].
-- [[TotK's Sky Islands - A Peaceful Heaven]].
 
 - The meaning of life.
 - Talk about how life feels like a fun rollercoaster to me, full of wonder and beauty, and with a beautiful sky filled with stars
 - How lucky I was to experience 21 years of life when I would have died in a few days without modern medicine
 - Any wishes after death, like people reading the notes
+- How these notes will never be complete, and things won't ever be ideal
 - Programming and MakerCentral
 - All of the programming projects I've done
 - Favorite video games, food, movies, TV shows, music, YouTube videos, items (like the yellow blanket, the aquarium light thing)
