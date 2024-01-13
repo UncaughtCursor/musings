@@ -3,14 +3,18 @@
 [[Some Thoughts on Life]]
 [[I Am the Only One Who Knows]]
 
-## Legacy
+## During Death
 
-[[The Farewell Message]]
-[[Publishing Life After Death]]
+[[Sleep is a Death Filter]]
 
 ## After Death
 
 [[What I Think Comes Next]]
+
+## Legacy
+
+[[The Farewell Message]]
+[[Publishing Life After Death]]
 
 ## Peace
 

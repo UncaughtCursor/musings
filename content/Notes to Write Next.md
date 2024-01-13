@@ -39,6 +39,7 @@ TODO:
 - How I never expected to be the unlucky one, looking at unlucky people and expecting to never end up that way
 - How incredible it is to be able to write about death and have profound philosophical experiences in reaction to it
 - Why I succeeded and redefining success
+- Consciousness as the universe's spotlight, highlighting the most interesting parts of itself
 - Being so grateful for life, how beautiful it is
 - My identity as a guy and a person in general
 - Accepting the fact that dying without some unfinished business is almost impossible
