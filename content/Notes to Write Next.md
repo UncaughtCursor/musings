@@ -61,6 +61,8 @@ TODO:
 - How my mind loves me and is my own life partner
 - Time speeding up faster and faster
 - The Beauty of Zora's Domain in Breath of the Wild and ToTK, both the visuals and music, also Vaporeon, who is basically a cute Zora dog/fox Pokemon
+- Favorite kingdoms in Super Mario Odyssey - Cascade, Seaside, Metro, etc
+- How amazing of a time 2017-2018 was
 - The Beauty of Rainbow Road in Mario Kart Wii and Mario Kart 8 Deluxe, the music, and probably MKWii nostalgia in general
 - The failure of the medical system to diagnose me in time, being dismissed by doctors
 - Hamtaro
