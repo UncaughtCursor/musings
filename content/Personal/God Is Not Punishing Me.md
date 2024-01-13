@@ -8,4 +8,6 @@ God would most likely want this death to be drawn out and painful. But this is n
 - **I still feel gratitude and joy thinking about the parts of life I enjoyed most.** I'm really happy to have been alive, and these feelings only add to it.
 - **I am likely to die in my sleep, completely unaware.** This is what I believe to be the [[Sleep is a Death Filter|least painful cause of death.]]
 
-These factors create a calm, introspective time period, relatively devoid of pain and dotted with moments of joy. And, if I pass away, it will be in the least painful way possible. That doesn't sound like a punishment; if anything, it sounds like something a forgiving god would do if I was destined to die young.
+These factors create a calm, introspective time period, relatively devoid of pain and dotted with moments of joy. I am able to appreciate and enjoy the life I had and how amazing it is it just exist, to be a part of this universe, to experience it all. And, if I pass away, it will likely be in the least painful way possible.
+
+That doesn't sound like a punishment; if anything, it sounds like something a forgiving god would do if I was destined to die young. It's such an incredible privilege to die this way, and it's exactly what someone like me would want.

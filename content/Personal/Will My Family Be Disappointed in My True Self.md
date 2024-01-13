@@ -2,7 +2,7 @@ Yes.
 
 But I don't mind.
 
-Invariably, by [[Publishing Life After Death|publishing my thoughts about everything]], I will expose fundamental differences in beliefs and outlook. Perhaps the most prominent of them being my political beliefs and lack of religious beliefs. My family might even attribute my fate to God punishing me for these differences, which is an idea that [[God Isn't Punishing Me|I couldn't disagree more on.]]
+Invariably, by [[Publishing Life After Death|publishing my thoughts about everything]], I will expose fundamental differences in beliefs and outlook. Perhaps the most prominent of them being my political beliefs and lack of religious beliefs. My family might even attribute my fate to God punishing me for these differences, which is an idea that [[God Is Not Punishing Me|I couldn't disagree more on.]]
 
 I found my existence to be much happier when I didn't force myself to believe what my family did and made sense of the world in my own way. Some may see secularism as a breeding ground for unsettling existential questions that are answered by religion, I myself find great gratitude and intrigue in realizing how [[Life is Awesomely Complex|complex and incredible]] the world and our lives are and just how much there is to see, learn, and experience.
 

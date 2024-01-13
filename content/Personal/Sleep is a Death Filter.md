@@ -6,7 +6,7 @@ This might be the least painful death possible, with no acute physical or psycho
 
 My situation feels like a hybrid of instant death and having awareness of it. While I posess awareness of my potentially deadly scenario, I may not have any awareness of when my death actually happens. So, I can strike a balance: I can [[Publishing Life After Death|leave closure for people now]] and be grateful for existing, while not having to experience the scariest part - the final moments.
 
-If this is indeed what will happen, then although my life will be cut short, this is [[God Isn't Punishing Me|the best death I could have possibly asked for]].
+If this is indeed what will happen, then although my life will be cut short, this is [[God Is Not Punishing Me|the best death I could have possibly asked for]].
 
 The awareness of my risk now makes sleep feel like a filter.
 
