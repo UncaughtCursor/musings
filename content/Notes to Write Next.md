@@ -27,6 +27,7 @@ TODO:
   - One of my favorite YouTube videos of all time (the Sonic 06 real time fandub) featuring an instrumental version Ke$ha's "Die Young" in the opening scene, which I really enjoyed
   - My school username using the year 2021 the whole time, with me not knowing it would be the most consequential year of my lifetime
 - Ragdoll cats
+- The irony of being so careful yet this happened to me
 - On pessimism and finding joy in the things and outcomes that cannot be taken away
 - The possibility of losing my personality and behavior to brain damage, disavowing antisocial, inappropriate, or abusive states due to damage
 - Preserving my face and voice (Also how my favorite feature was my eyes)
@@ -51,6 +52,7 @@ TODO:
 - The inability to capture everything, accepting incompleteness
 - How strange it is that I feel like I just became conscious one day
 - The outward appearance of dying young
+- The Champions from Breath of the Wild, Champion's Ballad picture scene
 - How things could only have happened in the exact way they did
 - Being glad that I messed around outside of school, as this formed some of my happiest memories
 - Discovering my passion for programming in 4th grade

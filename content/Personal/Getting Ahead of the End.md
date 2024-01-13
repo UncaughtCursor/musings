@@ -1,0 +1,1 @@
+TODO: Write about preparing for my death way ahead of time is something I would definitely do given my tendency to prepare ahead of time, and would apply to other situations
