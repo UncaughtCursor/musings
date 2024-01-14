@@ -44,5 +44,6 @@ These events were expected to possibly cause a flare-up, but **did not**:
 | 12/5/23 | Was sat up for several hours being out and about, shoulders hurt |
 | 12/25/23 | Hugged by mom, arm wrapped around neck with force right above disc |
 | 1/9/24 | Was sat up for a few hours being out and about, twice in one day, shoulders and neck hurt, mostly shoulders |
-| 1/12/24 | Was sat up for 1.5 hours, looked slightly down a couple of times, went over a particularly bumpy speed bump (NOT YET CONFIRMED SAFE, MONITORING) |
+| 1/12/24 | Was sat up for 1.5 hours, looked slightly down a couple of times, went over a particularly bumpy speed bump |
+| 1/13/24 | Carried a ~10 lb bag of clothes at waist level for a few seconds |
 This is an incomplete list.
