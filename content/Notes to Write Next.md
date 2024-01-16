@@ -26,6 +26,7 @@ TODO:
   - When I was younger, thinking that neurodegeneration of the brain would be the worst way to die
   - One of my favorite YouTube videos of all time (the Sonic 06 real time fandub) featuring an instrumental version Ke$ha's "Die Young" in the opening scene, which I really enjoyed
   - My school username using the year 2021 the whole time, with me not knowing it would be the most consequential year of my lifetime
+  - Criticizing the idea that people should be treated badly or deserve the consequences of their intellectually questionable actions for being "stupid," when they did not choose their level of reasoning, intelligence, or common sense
 - Ragdoll cats
 - The irony of being so careful yet this happened to me
 - On pessimism and finding joy in the things and outcomes that cannot be taken away
