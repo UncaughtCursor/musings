@@ -6,7 +6,7 @@ I could create a graphical representation of my symptoms and progression and pri
 
 I can do this using my skills in HTML and CSS, because I might as well keep them sharp while I'm doing this. Then, I can print off the pages and bring them to appointments.
 
-![[Notes Page Concept.png]]
+![[Health Notes Page Concept.png]]
 *An example of what a page of these notes may look like.*
 
 ## Details
