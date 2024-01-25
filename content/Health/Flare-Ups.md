@@ -46,4 +46,5 @@ These events were expected to possibly cause a flare-up, but **did not**:
 | 1/9/24 | Was sat up for a few hours being out and about, twice in one day, shoulders and neck hurt, mostly shoulders |
 | 1/12/24 | Was sat up for 1.5 hours, looked slightly down a couple of times, went over a particularly bumpy speed bump |
 | 1/13/24 | Carried a ~10 lb bag of clothes at waist level for a few seconds |
+| 1/19/24 | Tilted neck forward and slightly downward for about a minute for part of an eye exam |
 This is an incomplete list.

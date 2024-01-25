@@ -5,3 +5,7 @@ TODO: Include the digital recreation of one of my visual disturbances and try to
 Appears in both eyes, even when one is closed. Most noticeable when opening eyes wider, double image closer to real one when relaxing. It happens with and without glasses.
 
 ![[Double Vision.png]]
+
+## The Shadows
+
+TODO
