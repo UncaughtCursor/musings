@@ -22,7 +22,7 @@ These events caused flare-ups of my disease:
 
 | Apparent Cause                        | Date           | Effects                                                        |
 | ------------------------------------- | -------------- | -------------------------------------------------------------- |
-| Original herniation                   | 4/3/21         | After initial weakness, pain in hands                          |
+| Original disc herniation                   | 4/3/21         | After initial weakness, spreading pain in hands                          |
 | Working                               | Summer 2021    | Pain spread to legs, numbness in arms                          |
 | Carrying dad's scooter, neck bent     | September 2021 | Pain spread to face, neck, back of head                        |
 | Bending neck to take exam for 2 hours | 11/10/21       | Pain spread to full body, bladder issues, optic neuritis, POTS |
@@ -33,7 +33,7 @@ These flare-ups were **not likely to be caused** by any physical event:
 
 | Date     | Effects                                                                                                                                        |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11/27/23 | Breathing that slows and stops, extreme myoclonus, and auditory hallucinations, all when trying to sleep, nasal myoclonus; NO increase in pain |
+| 11/27/23 | Breathing that slows and stops, extreme myoclonus, and auditory hallucinations, all when trying to sleep, nasal myoclonus, language processing errors, visual distortions of objects and the visual field; NO increase in pain |
 
 ## Physical Non-Events
 
@@ -41,6 +41,7 @@ These events were expected to possibly cause a flare-up, but **did not**:
 
 | Date | Event |
 | ---- | ---- |
+| 12/2023 | Sat up in a hospital waiting room for more than 12 hours |
 | 12/5/23 | Was sat up for several hours being out and about, shoulders hurt |
 | 12/25/23 | Hugged by mom, arm wrapped around neck with force right above disc |
 | 1/9/24 | Was sat up for a few hours being out and about, twice in one day, shoulders and neck hurt, mostly shoulders |
