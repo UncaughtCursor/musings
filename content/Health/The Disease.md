@@ -6,7 +6,7 @@ Because of this, it is critical for me to be ready for anything.
 
 ## Onset
 
-During my time working at Texas Roadhouse, physical labor and long working hours led to me developing upper back pain. Eventually, while writing names on bags, my arms suddenly dropped with weakness and numbness. An MRI scan much later would show a C7-T1 herniated disc. Weakness and numbness in the arms recovered after a week, and symptoms began in the hands soon after.
+During my time working at Texas Roadhouse, physical labor and long working hours led to me developing upper back pain. Eventually, while writing names on bags, my arms suddenly dropped with weakness and numbness. Everything below the arms also had some numbness and weakness, which fluctuated in severity. An MRI scan much later would show a C7-T1 herniated disc. Weakness and numbness in the arms recovered after a week, and symptoms began in the hands soon after.
 
 ## Symptoms and Progression
 
@@ -16,20 +16,19 @@ During my time working at Texas Roadhouse, physical labor and long working hours
 
 - Random neuropathic pain and fasciculations nearly everywhere in the body, which includes the face and head
 - [[Optical Anomalies|Visual disturbances]]
-- Permanent vision loss in right eye
+- Permanent vision loss in right eye, which happened over the course of 19 hours
 - Double vision in right eye
 - Shadows/blind spots that only appear when moving eyes and head a certain way
 - Random moments of vertigo
 - Tingling on the entire left side of the face
 - Auditory hallucinations when trying to sleep
-- Large-scale involuntary movements when trying to sleep, to the point of both arms shooting off the bed, suddenly sitting up, or all four limbs violently jerking completely involuntarily
+- Myoclonus - large-scale involuntary movements when trying to sleep, to the point of both arms shooting off the bed, suddenly sitting up, or all four limbs violently jerking completely involuntarily
 - Automatic breathing continually slows down and stops when trying to sleep
 - Difficulty emptying bladder (takes several seconds to minutes)
 - Frequent urination
 - Slow/weak urination
 - Worse balance
-- Sometimes passing gas involuntarily (sphincter weakness?)
-- No urge to have a bowel movement
+- Distortions in the positions and sizes of objects, as well as distortions of the visual field, especially after moving head
 
 **Dormant:**
 
@@ -62,29 +61,37 @@ Progression of the disease mostly happens in distinct flare-ups, followed by rem
 
 ## Classification
 
-I believe that the disease is ultimately an atypical form of multiple sclerosis, triggered by and exacerbated by my herniated disc's contact with the spinal cord, triggering a runaway autoimmune response that could be classified as multiple sclerosis.
+I believe that the disease is an undiscovered autoimmune disease of the central nervous system with unique properties.
 
-Periods of recovery and unnoticeable activity suggest a relapsing-remitting pattern characteristic of RRMS.
+### Origin
 
-Multiple sclerosis commonly involves optic neuritis, bladder issues, balance issues, cognitive symptoms, and other CNS-related dysfunctions. I have all of these.
+It likely formed following injury or compression to the spinal cord. Recent medical research suggests that [this is a direct cause of autoimmunity against the central nervous system](https://www.neurology.org/doi/10.1212/nxi.0000000000200099). The symptoms shortly after the herniated disc - the weakness and numbness affecting everything *below* the arms, suggest spinal cord involvement. The emergence of symptoms one week later was gradual, not sudden - contrary to every flare-up thereafter - perhaps suggesting the emergence of the autoimmunity here.
+
+### Flare-Up Mechanism
+
+Flare-ups are triggered by the herniated disc's contact or pressure on the spinal cord, causing inflammation. Within this inflammation, the immune system erroneously targets some component of the central nervous system, which leads to a runaway autoimmune response. Periods of recovery and unnoticeable activity suggest a relapsing-remitting pattern, and perhaps a recoverable type of damage, such as demyelination, which the central nervous system can partially repair.
 
 A spine specialist noted that the herniated disc, while being in close proximity to the spinal cord, should not impede function. This lends credibility to the autoimmunity hypothesis, wherein the immune system is responsible for the damage, not the disc itself.
 
-### Congenital Dormant Autoimmunity Theory
+### Comparison to Multiple Sclerosis
 
-Still, a herniated disc leading to an autoimmune attack on the central nervous system seems to be an undocumented phenomenon; I have seen not one medical paper describing such an interaction. If this is not multiple sclerosis, it may be an extremely rare disease, and I may be the only person in the world who has it due to unusual environmental factors. Some argue that [multiple sclerosis is a spectrum of demyelinating diseases](https://en.wikipedia.org/wiki/Inflammatory_demyelinating_diseases_of_the_central_nervous_system) with numerous specific causes, including multiple classes of autoantibodies and different environmental factors.
+This is probably **not** multiple sclerosis, at least not the normal phenotype. However, it may be part of the same family - inflammatory demyelinating diseases (IDDs) - which often present with a relapsing-remitting pattern, affect the brain systemically, and can cause sudden vision loss due to optic nerve involvement. Examples of non-MS IDDs include MOGAD and neuromyelitis optica. Interestingly, these two diseases are associated with antibodies (anti-AQP4 and anti-MOG respectively). It may be possible that my disease is associated with an antibody that has not been discovered or isn't associated with this type of disease yet, resulting in its unique properties.
 
-I nearly died shortly after birth. Although I don't fully remember the details, my mother's immune system was destroying my own cells, and I required multiple blood transfusions.
+This is a comparison between the properties of my disease and other autoimmune CNS diseases:
 
-This may have caused my immune system to learn to target a specific protein in an aggressive manner that happens to appear in my neurons or the surrounding myelin insulation. It may be that response to a spinal cord injury (such as minor compression) causes a flood of immune cells to target my spinal cord and eventually brain, detecting the presence of this protein.
-
-Essentially, this would mean that this condition had been lying dormant for 18 years before finally striking once there was an injury on or very close to my spinal cord.
-
-I am not a biologist though, so I don't know for sure. Other potential causes include other environmental factors, virsues, or my scoliosis surgery.
+|  | **My Disease** | **Multiple Sclerosis** | **Other IDDs** | **NINJA\*** |
+| ---- | ---- | ---- | ---- | ---- |
+| **Affected Areas** | Whole CNS | Whole CNS | Whole CNS | Whole CNS |
+| **Relapsing-Remitting?** | Yes | Often | Often | Often |
+| **Optic Neuritis** | Atypical | Typical | Atypical | Unspecified |
+| **Physical Relapse Trigger?** | Yes | No | No | No |
+| **Antibody-Associated?** | Unknown | No | Yes | No |
+| **MRI Lesions?** | Not Yet | Yes | Yes | No |
+\*: NINJA is an MRI-negative IDD proposed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880627/).
 
 ## Prognosis
 
-Due to what appears to be extensive involvement with the brainstem and cervical spine, disruption of critical mechanisms like breathing, and the ample amount of time for progression, I believe that the disease is likely to be fatal. There are [[Causes of Death|multiple ways this could happen.]]
+Due to what appears to be extensive involvement with the brainstem and cervical spine, disruption of critical mechanisms like breathing, and the ample amount of time for progression, I believe that the disease could be fatal. There are [[Causes of Death|multiple ways this could happen.]]
 
 A minority of cases of multiple sclerosis are severe enough to [cause death relatively shortly after onset](https://en.wikipedia.org/wiki/Malignant_multiple_sclerosis), so this is not unprecedented; it is entirely possible for aggressive and severe demyelinating disease to be fatal.
 
@@ -94,10 +101,16 @@ Additionally, a [medical paper about neurological respiratory failure](https://w
 
 In plain English, this means that, for inflammatory central nervous system diseases like multiple sclerosis, life-threatening outcomes can occur due to disordered central respiratory control, including sleep-disordered breathing, which encompasses the breathing symptoms I experience. This heavily implies that an exacerbation of my current symptoms or a flare-up that attacks more of this area can be fatal.
 
-In other words, **I may be only one event away from death.**
-
 I have been processing this outcome [[Some Thoughts on Death|in many different ways]].
 
 My disease seems to be [[Facing Unspeakable Horrors|hard for others to process]] when they hear about it.
 
 As with regular MS, the disease may also become severely disabling, with the possibility of sudden paralysis and blindness. This has led me to consider the creation of [[Project Pulsar]].
+
+However, there are other, more optimistic possibilities.
+
+1. **Damage to Vital Functions is Mild:** If the attack on vital functions is less severe, I may survive for several years or even decades.
+2. **Damage to Vital Functions is Severe, But I Survive From Medical Intervention:** This would likely mean a significantly reduced lifespan, but my remaining months or years would be sustained through means such as mechanical ventilation. This is more likely if an otherwise fatal event is caught in time, for example, rapid deterioration of breathing function detected from overnight oxygen readings.
+3. **Technological Miracle:** I'm not one to expect miracles, but if my auto-antibody is discovered and the [inverse vaccine](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases) - a vaccine that tells the immune system to *not* attack a target - is successfully invented, then it is possible for me to effectively be cured if I'm alive in a couple of decades.
+
+It is simply impossible to tell what will happen right now.

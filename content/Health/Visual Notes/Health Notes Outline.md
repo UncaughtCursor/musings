@@ -1,0 +1,4 @@
+- **Overview**
+  - Describe the condition succinctly.
+  - Use [[Health Visual Notes Elements#Icon Cards|icon cards]] for the main features - the fact that it presents with sensory, motor, visual, autonomic, and cognitive symptoms, the relapsing-remitting nature, and the association with the spine.
+  - The symptoms icon could be the 5 symptom type icons in a pentagonal arrangement.
