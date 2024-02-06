@@ -15,6 +15,4 @@ I am now faced with the impossible task of predicting my own death despite my bi
 
 The majority of people under age 50 would have high confidence that they would live for at least another 5 years, making the pursuit of a career and independent living an obvious choice. But for me, this is called into question.
 
-If I had to choose now, I would estimate that I have **1-5 years left with low confidence**, meaning I think there's a fair chance that it could also happen sooner.
-
 This is effectively a question of whether or not to retire. Yes, it would seem as if my dream of retiring early might come true after all, even if it's in one of the most twisted ways possible. Perhaps when I thought of that wish, there was a [monkey's paw](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw) laying around nearby.
