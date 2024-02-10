@@ -1,0 +1,5 @@
+The human brain is made up of an incredible number of features and processes; it is among the most sophisticated structures in the universe. And I get to spend the rest of my life watching it unravel and become mangled beyond repair, each one of those meticulously-crafted submodules brutally torn to shreds. I may lose everything, be rendered unrecognizable, and reincarnate inside my own body. It's a grand spectacle, one that challenges the ideas of free will, consciousness, and personal identity.
+
+The person I was will be forever lost, consumed by the same matter that allowed my existence in the first place. What will be left, nobody can say. For better or for worse, I have been selected to bear witness to the complete destruction of my own mind, still conscious as the universe's entropy reclaims me.
+
+I will be making popcorn.
